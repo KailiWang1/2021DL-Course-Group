@@ -37,7 +37,8 @@
 有基础的请尽情加速，基本的东西都在链接里了
 
 相关资源：
-
+Jupyter Notebook快捷键使用website:
+https://www.cnblogs.com/locke-hu/p/9236540.html
 
 
 ## Week 2
